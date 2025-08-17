@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BackdropNest – Luxury Wallpapers for Every Pixel</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>BackdropNest</h1>
+    <p class="tagline">Luxury Wallpapers for Every Pixel</p>
+    <nav>
+      <a href="#gallery">Gallery</a>
+      <a href="#premium">Premium</a>
+      <a href="#about">About</a>
+    </nav>
+  </header>
+
+  <section id="hero">
+    <h2>Discover Stunning Wallpapers</h2>
+    <p>Free and premium downloads for desktops and laptops</p>
+    <button>Browse Gallery</button>
+  </section>
+
+  <section id="gallery">
+    <h2>Free Wallpapers</h2>
+    <div class="wallpaper-grid">
+      <!-- Add image thumbnails here -->
+      <div class="wallpaper-card">
+        <img src="placeholder.jpg" alt="Wallpaper Title">
+        <button>Download</button>
+      </div>
+    </div>
+  </section>
+
+  <section id="premium">
+    <h2>Premium Collection</h2>
+    <p>Access ultra-high resolution wallpapers with a subscription</p>
+    <button>Upgrade to Premium</button>
+  </section>
+
+  <section id="about">
+    <h2>About BackdropNest</h2>
+    <p>Curated wallpapers for every mood, every pixel. Whether you're looking for minimalist designs or vibrant landscapes, BackdropNest is your go-to destination.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 BackdropNest. All rights reserved.</p>
+  </footer>
+</body>
+</html>
